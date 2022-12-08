@@ -1,0 +1,9 @@
+.header {
+    background: var(--accent-color2);
+    border-bottom: 1px solid #ececec;
+}
+
+.header__container {
+    display: flex;
+    align-items: center;
+}
